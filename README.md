@@ -1,2 +1,1 @@
-# Wordpress-cheat-sheet-
-Wordpress cheat sheet 
+// For Single Post show
